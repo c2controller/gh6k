@@ -8,7 +8,3 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=gh6k&color=ff00ff&style=for-the-badge)
 
 ---
-
-👀 **Interested in:** cassidy  
-🌱 **Learning:** C++, Lua 
-📫 **Reach me:** Discord — `gh6k`  
